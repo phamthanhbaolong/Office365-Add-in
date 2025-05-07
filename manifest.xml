@@ -12,7 +12,7 @@
     <AppDomain>https://localhost:3000</AppDomain>
   </AppDomains>
   <Hosts>
-    <Host Name="Workbook"/>
+    <Host Name="NoteX"/>
   </Hosts>
   <DefaultSettings>
     <SourceLocation DefaultValue="https://localhost:3000/src/taskpane/taskpane.html"/>
