@@ -1,0 +1,1 @@
+fix js stop working
